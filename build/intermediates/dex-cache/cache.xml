@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_91e898a74ec219c776b840c34d74a4f0b544a462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9cac254455b722e477a7a41054a03f4bef51bdcd">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3728f17fc779a7d60053090f862d04c1228237b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_ff4c6cfad7b1bb8174643937abac007498d56cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_f6b4d926c437b29764c3b5f8b0b7c323cbe8f131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_48cb4e61a651f104a32bf9e4c36c2f4441ea157a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_9af5bfd0e250d6555473b29ccf1f896350a9026f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_fa05c0e3a67496ccf41247d8f2ff880a25fe6701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_09912e0be484cf80e7e7d5242088185a6a289002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb3466ca3aea316129a94b12c65788543bdf367c">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_53b31bbe49c4b7721ef69152cb752d8b1cdf1c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f36024f67c5ee3d4cf1759d220ec6536ca91862d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_29fb9de31cd03dea74866ce3693e7553774d4c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_40ecdab4978af8ff137ccc2771ceb154d36d80ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_f155781fd25dd93b8f0ec3654d33451059da2805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_f59db96b7b33500ad85b52b7e43b16a4f970b3e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_51a3aa7b052644c7d3a2a7007d29279df6437ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_8355712ebe02bc5d36d51bf1be8e0afacc24d78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e0ca02e5e03e1213e9aa441e14ab144e5bb6309d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_47890b67581b24774cc643a5b9df0c89c3ef8e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_b33895747725467fb420e95fdf480c569067ae82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_237ae56b44eff26c9c876035971de063e08c0c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_a60c4adbb1383d707d8347f293699179e8a1c734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Nas\Desktop\assignment-work-stream\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_2d8aa33236a0fdd6b2fc1023db4fe0b56a7de4d5\classes.dex" />
+    </item>
+
+</items>

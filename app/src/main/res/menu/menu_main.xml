@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="quote.qmpsnjquote.MainActivity">
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/random"
+        android:orderInCategory="100"
+        android:title="@string/random"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/last_run"
+        android:orderInCategory="100"
+        android:title="@string/last_run"
+        app:showAsAction="never" />
+</menu>
